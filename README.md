@@ -1,4 +1,4 @@
-# Unauthorized Personnel Detection 
+# Detecting Required/Banned Items
 
 ## What this solution is about?
 This solution is for building an end-to-end computer vision based web application for detecting if someone is carrying/wearing required tools or equipment. The application can also detect if someone is carrying banned items (e.g., drinks, weapons etc). When there is a violation the application sends notifications and displays snapshots of them in the web app. 
